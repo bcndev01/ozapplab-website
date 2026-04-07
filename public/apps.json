@@ -1,0 +1,118 @@
+{
+  "studio": {
+    "name": "OzAppLab",
+    "tagline": "Independent iOS App Developer",
+    "email": "support@ozapplab.com",
+    "website": "https://ozapplab.com",
+    "copyright": "2026 OzAppLab. All rights reserved.",
+    "location": "Germany"
+  },
+  "apps": [
+    {
+      "id": "solipuzzle",
+      "name": "Solipuzzle",
+      "subtitle": "Daily Jigsaw Game",
+      "fullTitle": "Solipuzzle: Daily Jigsaw Game",
+      "heroSubtitle": "Daily Jigsaw & 1v1 Races",
+      "shortDescription": "A relaxing daily jigsaw puzzle game with 700+ levels, multiplayer races, and custom photo puzzles.",
+      "appStoreUrl": "https://apps.apple.com/app/solipuzzle-daily-jigsaw-game/id6744407935",
+      "icon": "assets/solipuzzle-icon.png",
+      "screenshots": [
+        "assets/solipuzzle-screenshots/screenshot1.png",
+        "assets/solipuzzle-screenshots/screenshot2.png",
+        "assets/solipuzzle-screenshots/screenshot3.png"
+      ],
+      "accentColor": "#4ade80",
+      "accentGradient": ["#4ade80", "#22d3ee"],
+      "features": [
+        {
+          "icon": "calendar",
+          "title": "Daily Puzzle",
+          "description": "A brand new puzzle every day. Build your streak!"
+        },
+        {
+          "icon": "grid",
+          "title": "700+ Levels",
+          "description": "6 categories: Nature, City, Animals, Food, Travel, Art"
+        },
+        {
+          "icon": "sliders",
+          "title": "3 Difficulty Modes",
+          "description": "Easy (3\u00d73), Medium (4\u00d74), Hard (6\u00d76)"
+        },
+        {
+          "icon": "zap",
+          "title": "1v1 Online Race",
+          "description": "Challenge friends with room codes"
+        },
+        {
+          "icon": "camera",
+          "title": "Custom Photo Puzzles",
+          "description": "Turn your own photos into puzzles"
+        },
+        {
+          "icon": "award",
+          "title": "Achievements",
+          "description": "24 achievements to unlock"
+        },
+        {
+          "icon": "cloud",
+          "title": "iCloud Sync",
+          "description": "Progress syncs across all your devices"
+        },
+        {
+          "icon": "globe",
+          "title": "11 Languages",
+          "description": "EN, TR, ES, PT, FR, DE, RU, JA, KO, ZH, AR"
+        }
+      ],
+      "pages": {
+        "privacyPolicy": {
+          "lastUpdated": "April 7, 2026",
+          "effectiveDate": "April 7, 2026"
+        },
+        "terms": {
+          "lastUpdated": "April 7, 2026"
+        }
+      },
+      "support": {
+        "email": "support@ozapplab.com",
+        "responseTime": "48 hours",
+        "faq": [
+          {
+            "question": "How do I play?",
+            "answer": "Drag puzzle pieces to swap them. Match all pieces to their correct positions to complete the puzzle."
+          },
+          {
+            "question": "What is the Daily Puzzle?",
+            "answer": "Every day at midnight, a new puzzle is available. Complete it to build your streak!"
+          },
+          {
+            "question": "How does multiplayer work?",
+            "answer": "Create a room, share the 6-digit code with a friend, and race to solve the same puzzle first."
+          },
+          {
+            "question": "How do I remove ads?",
+            "answer": "Go to Settings > Premium and purchase \"Remove Ads\" for a one-time fee."
+          },
+          {
+            "question": "How do I sync my progress?",
+            "answer": "Your progress syncs automatically via iCloud. Make sure you're signed into iCloud on your device."
+          },
+          {
+            "question": "Images are not loading?",
+            "answer": "Check your internet connection. If you're on mobile data in Turkey, the app has a fallback CDN for regions with network restrictions."
+          },
+          {
+            "question": "How do I reset my progress?",
+            "answer": "Go to Settings > Danger Zone > Reset Progress. Warning: this cannot be undone."
+          },
+          {
+            "question": "How do I use custom photos?",
+            "answer": "Go to \"Your Photos\" on the home screen, add photos from your library or camera, and play them as puzzles."
+          }
+        ]
+      }
+    }
+  ]
+}
